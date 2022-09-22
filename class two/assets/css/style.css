@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(241, 227, 207);
+}
+
+h1 {
+    column-rule-color: greenyellow;
+}
+
+h2 {
+    font-size: 1rem;
+    color: rgb(187, 110, 48);
+}
+
+img {
+
+    border-top-left-radius: 9px;
+    box-shadow: 6px 6px rgb(51, 107, 160);
+    margin: 2rem;
+
+}
+
+h4 {
+    color: rgb(43, 36, 36);
+}
+.ppal-tittle-section{
+    color: blue;
+    text-transform: uppercase;
+    
+    
+}
+#mariposa{
+    background-color: rgb(152, 202, 71);
+    box-shadow: rgb(28, 29, 100);
+}
+#insectos-comestibles{
+    background-color: rgb(152, 202, 71);
+    box-shadow:red ;
+}
+
